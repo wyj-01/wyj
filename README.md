@@ -24,9 +24,9 @@ The following table shows the accuracy and r2-score of several algorithms：
 
 The accuracy of each algorithms:
 
-![avatar](https://github.com/Qiby0513/project1/blob/main/准确率.png)
+![avatar](https://github.com/wyj-01/wyj/blob/main/准确率.png)
 
 The r2-score of each algorithms:
 
-![avatar](https://github.com/Qiby0513/project1/blob/main/R2.png)
+![avatar](https://github.com/wyj-01/wyj/blob/main/R2.png)
 
