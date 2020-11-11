@@ -1,5 +1,5 @@
 # wyj
-       # Project1
+
 In this project, The dataset that we used was’ breast cancer-wisconsin ’, which can be download at https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data. There are 698 samples in this data, each samples has 9 features and 1 target variable ‘Class’. A total of five machine learning methods were selected, namely: Decision Tree Classifier, Logistic Regression, SGD Classifier, Linear SVC, K-Neighbors Classifier. 
 
 
